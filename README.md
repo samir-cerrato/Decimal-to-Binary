@@ -1,4 +1,5 @@
-# Decimal-to-Binary-
+# Decimal-to-Binary
+
  A program to convert from decimal to binary.
 
 Your program will read
